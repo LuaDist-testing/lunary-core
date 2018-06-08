@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = 'lunary-core'
-version = '20121108-1'
+version = '20121212-1'
 -- LuaDist source
 source = {
-  tag = "20121108-1",
+  tag = "20121212-1",
   url = "git://github.com/LuaDist-testing/lunary-core.git"
 }
 -- Original source
 -- source = {
--- 	url = 'http://hg.piratery.net/lunary/get/e7a3ad8efa5f86f8621c0ffcc7e57ee6e6dd8e1f.tar.gz',
--- 	dir = 'doub-lunary-e7a3ad8efa5f',
+-- 	url = 'http://hg.piratery.net/lunary/get/20d192874d252c12fb2b003a696aeec88c8a69b8.tar.gz',
+-- 	dir = 'doub-lunary-20d192874d25',
 -- }
 description = {
 	summary = "A binary format I/O framework for Lua.",
